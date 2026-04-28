@@ -18,9 +18,9 @@ This is my first DevOps practice project using Docker and Nginx.
 ```bash
 docker compose up -d
 
-Then open:
+## Then open:
 http://localhost:8080
 
-📌 Purpose
+## 📌 Purpose
 
 This project is part of my DevOps learning journey focused on containerization and infrastructure basics.
