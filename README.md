@@ -17,6 +17,7 @@ This is my first DevOps practice project using Docker and Nginx.
 
 ```bash
 docker compose up -d
+```
 
 ## Then open:
 http://localhost:8080
